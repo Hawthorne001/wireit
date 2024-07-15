@@ -419,7 +419,7 @@
     "esbuild": "^0.20.0",
     "eslint": "^8.48.0",
     "eslint-plugin-no-only-tests": "^3.1.0",
-    "jsonc-parser": "^3.0.0",
+    "jsonc-parser": "^3.3.0",
     "jsonschema": "^1.4.0",
     "pnpm": "^8.7.1",
     "prettier": "^3.0.3",
@@ -440,7 +440,7 @@
     "braces": "^3.0.2",
     "chokidar": "^3.5.3",
     "fast-glob": "^3.2.11",
-    "jsonc-parser": "^3.0.0",
+    "jsonc-parser": "^3.3.0",
     "proper-lockfile": "^4.1.2"
   },
   "workspaces": [
