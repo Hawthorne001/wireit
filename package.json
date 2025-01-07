@@ -439,7 +439,7 @@
   "dependencies": {
     "braces": "^3.0.2",
     "chokidar": "^3.5.3",
-    "fast-glob": "^3.2.11",
+    "fast-glob": "^3.3.3",
     "jsonc-parser": "^3.0.0",
     "proper-lockfile": "^4.1.2"
   },
